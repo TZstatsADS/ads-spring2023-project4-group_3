@@ -4,18 +4,23 @@
 
 Term: Spring 2023
 
-+ Team #
-+ Projec title: Lorem ipsum dolor sit amet
++ Team 3
++ Project title: Machine Learning Fairness 
+
+
+Paper A1: Learning fair representations (LFR) & Paper A4: Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen)
+
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	+ Denise Rahmadina (dsr2160)
+	+ Dongxu Zhang (dz2510)
+	+ Hongju Ouyang (ho2307)
+	+ Hongyan Zhou (hz2827)
+	+ Yuxin Liang (yl5140)
+	+ Jinghan Huang (jh4578)
++ Project summary: For this project we studied the algorithms related to Machine Learning Fairness Algorithms. We studied and implemented the algorithms given in papers A1: Learning fair representations (LFR) and A4: Fairness Beyond Disparate Treatment & Disparate Impact. We used the Compas dataset to implement the algorithm.
 	
 
-**Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**: We divided into 2 groups. Denise Rahmadina, Dongxu Zhang & Hongju Ouyang worked on paper A4. Hongyan Zhou, Yuxin Liang & Jinghan Huang worked on paper A1. All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
