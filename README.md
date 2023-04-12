@@ -5,8 +5,7 @@
 Term: Spring 2023
 
 + Team 3
-+ Project title: Machine Learning Fairness
-+ 
++ Project title: Machine Learning Fairness 
 A1: Learning fair representations (LFR)
 A4: Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen)
 
