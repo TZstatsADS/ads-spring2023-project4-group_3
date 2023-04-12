@@ -8,8 +8,8 @@ Term: Spring 2023
 + Project title: Machine Learning Fairness 
 
 
-A1: Learning fair representations (LFR)
-A4: Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen)
+++ A1: Learning fair representations (LFR)
+++ A4: Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen)
 
 + Team members
 	+ Denise Rahmadina (dsr2160)
